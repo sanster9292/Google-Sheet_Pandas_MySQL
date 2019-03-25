@@ -9,6 +9,7 @@ THE MOTIVATION:
     • In 2017 I had tried reading a book a week and I logged all the entries in a google sheet.
     • Though, I was only able to read 33 books instead of the 52 I had hoped, but I was happy with the 
     • experience and also by the record which I had kept. 
+    
  THE THINKING
     • I had a database established where i was keeping a record of my books which I was currently reading and updating it with entries from the past and as I remembered them. 
     • The schema of the database had 6  columns.
@@ -19,6 +20,7 @@ THE MOTIVATION:
         ◦ thoughts about the book.
         ◦ Date: When the entry was added in the dataabase.
     • I wanted to store the information in my google sheet in this schema. 
+    
 THE PROCESS:
     • I used the Google Sheet API to load the data from the google sheet. 
     • Then, I loaded the data into Python Pandas’ for easier manipulation.
